@@ -1,0 +1,30 @@
+Proveď podrobný, aktuální průzkum trhu epoxidových a polyuretanových podlah v Brně a okolí. Nemám vlastní firmu ani web; cílem je pochopit konkurenci, poptávku, ceny a možnosti případného vstupu na trh. Neprováděj audit neexistujícího vlastního webu. Pracuj samostatně a uveď datum průzkumu.
+
+ROZSAH
+Zaměř se na Brno-město a Brno-venkov. Firmy z dalších částí Jihomoravského kraje a celé ČR zahrň pouze tehdy, pokud doložitelně obsluhují Brno. Odděl místní sídlo, provozovnu/showroom, dojíždějícího realizátora, prodejce materiálu, dodavatele alternativních podlah a katalog/poptávkový portál. Rozlišuj finální pryskyřičnou podlahu od anhydritového nebo cementového podkladního potěru a od pouhého nátěru. Více domén téže firmy počítej pouze jednou.
+
+1. KONKURENCE
+Najdi alespoň 15 relevantních přímých konkurentů, pokud je lze ověřit. U každého uveď firmu, web, skutečný vztah k Brnu, epoxidovou a/nebo polyuretanovou nabídku, zaměření na garáže, byty, komerční prostory nebo průmysl, veřejné ceny a minimální velikost zakázky, pokud existují. Prozkoumej reference, fotografie realizací, konkrétní odlišení, cenovou transparentnost a cestu k poptávce. Dolož nabídku a lokalitu primárními zdroji. Marketingová tvrzení firmy označ jako její tvrzení, ne jako nezávisle ověřený výkon. Uveď silné a slabé stránky jako analytický úsudek.
+
+2. VYHLEDÁVÁNÍ A KLÍČOVÁ SLOVA
+Prověř Google a Seznam pro epoxidové podlahy Brno, polyuretanové podlahy Brno, lité podlahy Brno, průmyslové podlahy Brno a podlahy do garáže Brno. Odděl organické výsledky, reklamy, mapové profily a katalogy. U snímků pozic zaznamenej dotaz, datum, lokalitu, zařízení a personalizaci; nezaměň jednorázový snímek za stabilní pořadí.
+Připrav alespoň 60 užitečných frází v tematických skupinách: materiál, lokalita, použití, cena, realizace, rekonstrukce a problémy zákazníků. Uveď vyhledávací záměr, obchodní prioritu a vhodný obsah/vstupní stránku. Odděl fráze skutečně nalezené na webech konkurence od vlastních doporučení. Nedovozuj přesná klíčová slova reklamního účtu jen ze zobrazené reklamy.
+Pokud máš legitimní přístup k datům, doplň průměrnou měsíční hledanost, 12měsíční sezónnost, CPC a konkurenci inzerentů. U každého údaje uveď nástroj, vyhledávač, lokalitu, období a jednotku/měnu. Rozliš celorepublikové hledání fráze obsahující Brno od hledání lidí v Brně. Zkus dostupné alternativy k blokovanému nástroji: Google Keyword Planner, Marketing Miner, Collabim nebo veřejné statistiky Seznamu. Google Trends používej pouze pro relativní trend. Bez dat ponech údaj nezjištěno; nulu ani odhad nevydávej za měření. Nesčítej slepě blízké varianty.
+
+3. AUDIT WEBŮ A ZÍSKÁVÁNÍ ZÁKAZNÍKŮ
+Na reprezentativně zvoleném a jasně popsaném vzorku ověř title, meta description, H1, lokalitu v obsahu, canonical, kontakty, formulář a strukturovaná data. Vymez, zda jde o raw HTML, vykreslenou stránku nebo kontrolu celého webu. Blokovanou kontrolu nehodnoť jako chybějící prvek. Prozkoumej konkrétní reklamy, nabídky, reference a CTA. Rychlost, Core Web Vitals, indexaci, návštěvnost, zpětné odkazy a recenze uváděj jen s příslušným měřením nebo ověřeným zdrojem. Nic nevymýšlej.
+
+4. CENY A POPTÁVKA
+Porovnej veřejné ceny s ohledem na systém, tloušťku, přípravu podkladu, plochu, DPH, dopravu a rozsah práce. Odděl materiál, cenu od, cenu konkrétní realizace a historický údaj. Z nesrovnatelných položek nevytvářej průměrnou cenu trhu. Zhodnoť segmenty a konkrétní zákaznické otázky. Případná data o stavební aktivitě označ jako nepřímý ukazatel, nikoli objem trhu epoxidu a polyuretanu.
+
+5. ZÁVĚRY A VÝSTUP
+Připrav stručné rozhodovací shrnutí, podrobnou tabulku konkurentů, tabulku klíčových slov, cenové srovnání, statistiku jasně definovaného vzorku a konkrétní příležitosti. U každé statistiky uveď jmenovatel, způsob výběru a výpočtu; počet katalogových profilů neoznačuj jako počet aktivních specializovaných firem. Vysvětli, jaké další údaje jsou potřeba pro rozhodnutí o podnikání. Navrhni plán prvních 30/60/90 dní a případné modelové reklamní scénáře s výslovnými předpoklady, bez slibu návratnosti. Report a tabulková data ulož do přehledných souborů.
+
+PRAVIDLA KVALITY
+Piš česky, konkrétně a bez reklamní omáčky. U důležitých tvrzení připoj přímé odkazy na zdroje. Odděl ověřený fakt, tvrzení firmy, vlastní výpočet, odhad a doporučení. Přiznej omezení dat a neprezentuj průzkumný vzorek jako úplný soupis trhu. Nezakládej účty, nenakupuj předplatné, nespouštěj reklamy ani nekontaktuj firmy bez mého výslovného zadání.
+
+6. MĚSÍČNÍ REKLAMNÍ ROZPOČET
+Odhadni, kolik by přibližně stála reklama pro realizace EP/PU v Brně. Odděl měsíční mediální rozpočet, správu kampaní a jednorázové nastavení či měření. Uveď menší test, soustředěný start a širší variantu; ukaž celkový měsíční i první měsíční rozpočet a co není zahrnuto. Vysvětli, proč ceny ovlivňuje aukce, cílení, rozsah služeb, konkurence a kvalita vstupní stránky. Správu dolož aktuálními veřejnými cenovými příklady. Bez naměřeného CPC používej jen výslovně modelové předpoklady a neslibuj počet poptávek nebo návratnost. Rozpočet nemusí být vyčerpán, pokud chybí poptávka.
+
+7. PŘEHLEDNÁ HTML STRÁNKA A GITHUB PAGES
+Z celého průzkumu vytvoř přehlednou, responzivní HTML stránku s navigací, filtrem konkurentů, tabulkami klíčových slov a cen, zdroji a interaktivní kalkulačkou rozpočtu. Kalkulačka musí rozlišit předpoklad a změřenou veličinu. Přidej stažení reportu, dat a promptu. Stránku zveřejni na GitHub Pages v dostupném účtu, použij samostatný repozitář pro tento průzkum a ověř fungující veřejnou URL. Commity pushni na main bez force push. Toto je autorizace publikovat stránku; spuštění reklamy ani útrata autorizované nejsou.

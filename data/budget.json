@@ -1,0 +1,84 @@
+{
+  "updated": "2026-10-12",
+  "currency": "CZK",
+  "vat": "bez DPH; konkrétní daňový režim dle dodavatele",
+  "status": "plánovací odhady, nikoli naměřené náklady trhu nebo cenová nabídka",
+  "channel": "Google Ads ve vyhledávání, Brno a reálný dojezd do Brna-venkova",
+  "plans": [
+    {
+      "name": "Menší test",
+      "media_min": 6000,
+      "media_max": 10000,
+      "management_min": 3000,
+      "management_max": 6000,
+      "total_min": 9000,
+      "total_max": 16000,
+      "purpose": "Jedna služba nebo jeden segment, například garáže."
+    },
+    {
+      "name": "Soustředěný start",
+      "media_min": 12000,
+      "media_max": 20000,
+      "management_min": 4000,
+      "management_max": 7000,
+      "total_min": 16000,
+      "total_max": 27000,
+      "purpose": "Dvě až tři oddělené skupiny s relevantními stránkami. Výchozí plán k ověření, nikoli garantované čerpání."
+    },
+    {
+      "name": "Širší pokrytí",
+      "media_min": 25000,
+      "media_max": 40000,
+      "management_min": 6000,
+      "management_max": 10000,
+      "total_min": 31000,
+      "total_max": 50000,
+      "purpose": "Více systémů a použití, případně širší dojezd; až po ověření objemu hledání, konverzí a kapacity."
+    }
+  ],
+  "recommended_example": {
+    "media": 15000,
+    "management": 5000,
+    "monthly_total": 20000
+  },
+  "initial_setup": {
+    "min": 3000,
+    "max": 8000,
+    "frequency": "jednorázově",
+    "status": "plánovací odhad",
+    "scope": "Počáteční nastavení kampaní a základního měření na připraveném webu; ověřit, zda už není v ceně správy."
+  },
+  "first_month_focused_range": {
+    "min": 19000,
+    "max": 35000,
+    "calculation": "16–27 tisíc měsíčně + 3–8 tisíc jednorázově"
+  },
+  "not_included": [
+    "Příprava obchodního webu a vstupních stránek, není-li hotový",
+    "Fotografie a další produkce",
+    "SEO nebo správa Meta Ads",
+    "DPH dle konkrétních dodavatelů"
+  ],
+  "calculator_defaults": {
+    "media": 15000,
+    "cpc": 40,
+    "qualified_lead_rate": 0.05,
+    "close_rate": 0.2,
+    "management": 5000
+  },
+  "calculator_note": "CPC i konverze jsou ručně zvolené předpoklady. Hledanost a CPC pro EP/PU Brno nebyly získány. Výsledek není prognóza zakázek.",
+  "review_after": "Přibližně 4–6 týdnů nebo po dosažení dostatečného vzorku kvalifikovaných poptávek; u malého objemu déle.",
+  "demand_limit": "Denní či měsíční limit se nemusí vyčerpat, pokud chybí relevantní hledání. Vyšší rozpočet sám nevytváří poptávku.",
+  "official_sources": [
+    "https://support.google.com/google-ads/answer/3022575?hl=cs",
+    "https://support.google.com/google-ads/answer/1722038?hl=cs",
+    "https://support.google.com/google-ads/answer/6366577?hl=cs",
+    "https://support.google.com/google-ads/answer/116495?hl=cs",
+    "https://support.google.com/google-ads/answer/10486536?hl=cs"
+  ],
+  "management_sources": [
+    "https://create201.cz/marketing",
+    "https://pinkpixel.cz/cenik/",
+    "https://jirinavra.cz/kalkulacka-ceny-ppc"
+  ]
+}

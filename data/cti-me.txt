@@ -1,0 +1,11 @@
+PRŮZKUM PODLAH BRNO – 12.10.2026
+pruzkum-podlahy-brno.md: hlavní report, metodika, zdroje a doporučení.
+konkurence-brno.csv: 21 hlavních a 4 doplňující profily, deduplikované značky/domény. Role v průzkumu a geografická skupina jsou samostatné sloupce; filtr hlavní profil + místní adresní vztah má 15 řádků.
+klicova-slova.csv: 60 kandidátů; priorita je úsudek, hledanost/CPC nezjištěny.
+fraze-pro-planovac.txt: čisté fráze pro import do Keyword Planneru/MM/Collabimu.
+ceny-podlah.csv: 17 položek z 6 primárních cenových webů; materiál/realizace/historie oddělené. Další nabídky JAC/Dimapa jsou popsány v konkurence-brno.csv.
+audit-webu.csv: 12 pokusů o raw HTML, pouze 10 vyhodnocených; nejde o celý web nebo validaci prvků.
+snimek-google.csv: 20 webových výsledků ze dvou jednorázových snímků; nejsou to trvalé pozice.
+pozorovane-reklamy.csv: 7 dvojic dotaz/doména, 4 různé domény; nedokazuje přesná nakoupená slova nebo rozpočty.
+prompt-pruzkum-podlahy-brno.txt: celý prompt k opakování a rozšíření průzkumu.
+CSV: UTF-8 BOM, středník, chybějící hodnoty nezjištěno. Číselné ceny mají zvlášť jednotku, DPH a typ ceny. Nesčítat slepě příbuzné dotazy a nepočítat průměr nesrovnatelných cen jako trh.

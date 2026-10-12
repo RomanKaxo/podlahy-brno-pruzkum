@@ -1,0 +1,10 @@
+﻿provider;url;item;price_czk;unit;kind;vat;media_budget_included;scope;valid_from;observed_at
+CREATE201;https://create201.cz/marketing;PPC START;3000;měsíc;management;nezjištěno;False;Jeden kanál, menší objem kampaní, pravidelná kontrola a úpravy;nezjištěno;2026-10-12
+CREATE201;https://create201.cz/marketing;PPC BUSINESS;5000;měsíc;management;nezjištěno;False;Více kampaní v jednom kanálu, aktivnější správa, texty/cílení/reporting;nezjištěno;2026-10-12
+CREATE201;https://create201.cz/marketing;Vstupní nastavení;4000;jednorázově;setup;nezjištěno;False;"Jeden kanál; landing page/web jiná služba";nezjištěno;2026-10-12
+Pink Pixel;https://pinkpixel.cz/cenik/;Průběžná Google Ads/Sklik správa;3000;měsíc;management;nezjištěno;nezjištěno;"Maximálně dvě již nastavené kampaně; nerozjezd a větší úpravy. Ceník pro rozpočet do 10 000 Kč/měsíc.";nezjištěno;2026-10-12
+Pink Pixel;https://pinkpixel.cz/cenik/;Google Aktivně;3200;měsíc;management;nezjištěno;nezjištěno;Balíček správy 2–3 kampaní, optimalizace a měření/reporting. Ceník pro rozpočet do 10 000 Kč/měsíc.;nezjištěno;2026-10-12
+Pink Pixel;https://pinkpixel.cz/cenik/;Google Start;7700;jednorázově;setup_package;nezjištěno;nezjištěno;"Účet/GA4/měření/strategie/texty a struktura; 3 vyhledávací nebo 2 obsahové kampaně včetně 3 bannerů";nezjištěno;2026-10-12
+Jiří Navrátil;https://jirinavra.cz/kalkulacka-ceny-ppc;Lite;3750;měsíc;management;neplátce DPH, konečná cena;False;Minimum 2,5 hodiny × 1 500 Kč, orientační základ;nezjištěno;2026-10-12
+Jiří Navrátil;https://jirinavra.cz/kalkulacka-ceny-ppc;Standard;6000;měsíc;management;neplátce DPH, konečná cena;False;Minimum 4 hodiny × 1 500 Kč, orientační základ;nezjištěno;2026-10-12
+Jiří Navrátil;https://jirinavra.cz/kalkulacka-ceny-ppc;Převzetí účtu;7900;jednorázově;takeover;neplátce DPH, konečná cena;False;Převzetí účtu a kontrola měření. Nejde automaticky o cenu založení zcela nového účtu.;nezjištěno;2026-10-12
